@@ -35,7 +35,7 @@
 
     <div class="wish-box">
 
-      <h2>🌸 Kochana Mamo 🌸</h2>
+     
 
       <p>
         z całego serca życzymy Ci wszystkiego, co najpiękniejsze.Niech każdy dzień przynosi Ci radość,a każdy poranek zaczyna się uśmiechem.❤️<br><br>
