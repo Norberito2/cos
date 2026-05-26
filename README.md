@@ -38,19 +38,17 @@
       <h2>🌸 Kochana Mamo 🌸</h2>
 
       <p>
-        Dziękuję Ci za wszystko ❤️<br><br>
+        z całego serca życzymy Ci wszystkiego, co najpiękniejsze.Niech każdy dzień przynosi Ci radość,a każdy poranek zaczyna się uśmiechem.❤️<br><br>
 
-        Za miłość, cierpliwość
-        i każdy uśmiech 💖
-
-        <br><br>
-
-        Życzę Ci dużo zdrowia,
-        szczęścia i pięknych chwil 🌷
+        Dziękujemy Ci za miłość, którą nas otaczasz,za ciepło, które zawsze do nas wraca,i za siłę, którą nam dajesz, nawet gdy o nią nie prosimy. 💖
 
         <br><br>
 
-        Kocham Cię ❤️
+       Dziękujemy Ci za miłość, którą nas otaczasz,za ciepło, które zawsze do nas wraca, i za siłę, którą nam dajesz, nawet gdy o nią nie prosimy. 🌷
+
+        <br><br>
+
+      Kochamy Cię najmocniej na świecie.  ❤️
       </p>
 
     </div>
