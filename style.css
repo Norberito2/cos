@@ -1,0 +1,133 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial,sans-serif;
+}
+
+body{
+  overflow:hidden;
+}
+
+/* STRONY */
+
+.page{
+  width:100%;
+  height:100vh;
+  display:none;
+  justify-content:center;
+  align-items:center;
+}
+
+.page.active{
+  display:flex;
+}
+
+/* STRONA 1 */
+
+#page1{
+  background:#f2f2f2;
+}
+
+.login-box{
+  width:350px;
+  background:white;
+  padding:40px;
+  border-radius:20px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.1);
+  text-align:center;
+}
+
+.login-box h1{
+  margin-bottom:25px;
+  color:#333;
+}
+
+.login-box input{
+  width:100%;
+  padding:15px;
+  margin-bottom:15px;
+  border:1px solid #ddd;
+  border-radius:10px;
+  font-size:16px;
+}
+
+.login-box button{
+  width:100%;
+  padding:15px;
+  border:none;
+  border-radius:10px;
+  background:#333;
+  color:white;
+  font-size:16px;
+  cursor:pointer;
+}
+
+/* STRONA 2 */
+
+#page2{
+  background:linear-gradient(135deg,#ff758c,#ff7eb3);
+  position:relative;
+}
+
+.wish-box{
+  text-align:center;
+  color:white;
+  background:rgba(255,255,255,0.2);
+  backdrop-filter:blur(10px);
+  padding:40px;
+  border-radius:25px;
+  width:90%;
+  max-width:600px;
+  animation:fadeIn 2s ease;
+}
+
+.wish-box h2{
+  font-size:3rem;
+  margin-bottom:20px;
+}
+
+.wish-box p{
+  font-size:1.4rem;
+  line-height:1.7;
+}
+
+@keyframes fadeIn{
+  from{
+    opacity:0;
+    transform:scale(0.8);
+  }
+
+  to{
+    opacity:1;
+    transform:scale(1);
+  }
+}
+
+/* SERCA */
+
+.hearts{
+  position:absolute;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+  pointer-events:none;
+}
+
+.heart{
+  position:absolute;
+  font-size:24px;
+  animation:float 6s linear infinite;
+}
+
+@keyframes float{
+  from{
+    transform:translateY(100vh) scale(0.5);
+    opacity:1;
+  }
+
+  to{
+    transform:translateY(-10vh) scale(1.5);
+    opacity:0;
+  }
+}
